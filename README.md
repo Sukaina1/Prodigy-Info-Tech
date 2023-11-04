@@ -1,6 +1,5 @@
 # Prodigy-Info-Tech
 Prodigy Info Tech - Data Science Internship
-Greetings, LinkedIn Network!
 
 I'm thrilled to provide an update on my Data Science Internship journey at Prodigy InfoTech Company.
 
